@@ -1,6 +1,6 @@
 # Contributing
 
-Open Source BJJ improves the way open-source software does: people who know something fix it, add to it, and disagree in the open. Any belt, any lineage.
+BJJ Commons improves the way open-source software does: people who know something fix it, add to it, and disagree in the open. Any belt, any lineage.
 
 ## What kind of contributions help
 
@@ -47,7 +47,7 @@ By contributing you agree your contribution is licensed under [CC BY-SA 4.0](LIC
 
 ## Origins
 
-Open Source BJJ started in 2026 as one white belt's class notes, and it exists because writing things down after class turned out to be the best way to learn them.
+BJJ Commons started in 2026 as one white belt's class notes, and it exists because writing things down after class turned out to be the best way to learn them.
 
 **Scott Kelly** started jiu-jitsu as an adult beginner and trains at Park Slope Academy of Brazilian Jiu-Jitsu in Brooklyn. He builds software for a living, which is where the open-source framing comes from — and, as a white belt, he is the first to say that any mistakes in the early material are his.
 
