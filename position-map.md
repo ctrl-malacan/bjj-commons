@@ -18,7 +18,7 @@ flowchart LR
     BC["Back control"]
     FH["Front headlock"]
     T["Turtle"]
-    SUB_FH(["Anaconda · D'Arce · Guillotine · Head-and-arm"])
+    SUB_FH(["Anaconda · D'Arce · Guillotine · Arm triangle guillotine"])
     SUB_BC(["RNC · Reverse triangle · Back triangle"])
     SUB_M(["Armbar · Head-and-arm · Guillotine"])
     SUB_SC(["Arm-in guillotine · D'Arce · Kimura · Heart choke"])
@@ -168,10 +168,9 @@ Escapes run the other way — side control and mount bottom recover to guard or 
 | Anaconda | Drag arm across, grip bicep, roll through |
 | D'Arce | Thread under armpit, across neck, figure-four |
 | Guillotine | Provoke response, swim around shoulder |
-| Head-and-arm choke | Arm dragged across → tricep + wrist grip, leg over the back |
+| Arm triangle guillotine | Arm dragged across → tricep + wrist grip, leg over the back; or won via the step-over |
 | Back control | Grip tricep, walk to side, seatbelt, hook; or step-over → arm triangle guillotine → they turn away → far shoulder, kick through |
 | Peruvian necktie | Step over the head and they do not react |
-| Arm triangle guillotine | Step over the head, they push the leg off, drop to the back |
 | Side control / north-south | If anaconda fails, grip tricep, get to knees |
 
 ## From Turtle (Top) → [turtle](positions/10-turtle.md)

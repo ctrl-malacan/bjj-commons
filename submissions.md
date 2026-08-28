@@ -159,9 +159,9 @@ The head-and-arm choke (also called the arm triangle) traps your opponent's head
 
 Walk their elbow up to their ear by lifting and pushing forward repeatedly. Link a gable grip behind their head. Slide your knee under their shoulder into S-mount. Transition to the armbar from there (the head-and-arm is the setup; the armbar is the finish). See [The Head and Arm Choke to Armbar](positions/07-mount.md#the-head-and-arm-choke-to-armbar).
 
-### From Front Headlock
+### From Front Headlock (the arm triangle guillotine)
 
-From the gable grip with their arm dragged across: switch grip so one arm holds their tricep and the other grips your own wrist. Drop, throw your leg over their back, and pull back. See [The Head and Arm Choke from Front Headlock](positions/09-front-headlock.md#the-head-and-arm-choke-from-front-headlock).
+From the gable grip with their arm dragged across — or after winning the arm with the step-over: switch grip so one arm holds their tricep and the other grips your own wrist. Drop, throw your leg over their back, and pull back with head and arm inside. See [The Arm Triangle Guillotine from Front Headlock](positions/09-front-headlock.md#the-arm-triangle-guillotine-from-front-headlock).
 
 ---
 
