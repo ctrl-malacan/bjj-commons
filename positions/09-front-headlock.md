@@ -19,7 +19,7 @@ flowchart LR
     FH -->|"they turtle"| T2["Turtle attack"]
     FH -->|"tricep grip · step-over → guillotine, they turn"| BC["Back control"]
     FH -->|"anaconda fades"| SC["Side control / north-south"]
-    FH -.->|"anaconda · D'Arce · guillotine<br/>head-and-arm · Peruvian necktie"| S(["Submissions"])
+    FH -.->|"anaconda · D'Arce · guillotine<br/>arm triangle guillotine · Peruvian necktie"| S(["Submissions"])
 ```
 
 ---
@@ -48,7 +48,7 @@ When a grip will not come, threaten something else.
 
 **What is really happening.** While they are busy with your left leg, your right knee — which was on the mat — walks closer and closer to their left arm, and starts helping push that arm across their center line. They rarely notice. They are worried about the necktie and the leg on their head, and read the right knee creeping in as part of the same movement. It is not. It is what lets you cinch the grip on the left tricep and finally bring the arm across.
 
-**The drop.** When they shove your leg off their head, let the momentum carry you: switch your legs — left and right both to their left side — and fall to your back, straight into a tight arm triangle guillotine, the arm you just won trapped inside the choke with the head. On its own this is a high-percentage finish.
+**The drop.** When they shove your leg off their head, let the momentum carry you: switch your legs — left and right both to their left side — and fall to your back, straight into a tight arm triangle guillotine, the arm you just won trapped inside the choke with the head (the grip and finish are in [The Arm Triangle Guillotine from Front Headlock](#the-arm-triangle-guillotine-from-front-headlock)). On its own this is a high-percentage finish.
 
 **When they turn away.** More experienced opponents defend the arm triangle guillotine by turning away from the choke, so their back faces you. Give up the choke immediately. Take your right arm and wrap it under their right shoulder — the one now exposed to you — and pull that shoulder tight to your chest. Kick through on their left side with your left leg, and you have their back ([Back Control](08-back-control.md)).
 
@@ -158,9 +158,9 @@ Used as misdirection to pass into mount rather than as a finish — see [Section
 
 Mechanics: [Submissions § Head and Arm Choke](../submissions.md#118-head-and-arm-choke).
 
-### The Head and Arm Choke from Front Headlock
+### The Arm Triangle Guillotine from Front Headlock
 
-From the front headlock with the gable grip, after dragging their left arm across their body: switch your grip so your left arm holds their left tricep and your right hand holds your left wrist. Slide your left knee down, drop, and throw your right leg over their back. Pull back as you would in a guillotine but maintain the head-and-arm configuration.
+This is the finish the [step-over](#winning-the-arm-the-step-over) drops into, reached here directly once the arm is across. From the front headlock with the gable grip, after dragging their left arm across their body: switch your grip so your left arm holds their left tricep and your right hand holds your left wrist. Slide your left knee down, drop, and throw your right leg over their back. Pull back as you would in a guillotine, keeping their head and the trapped arm inside together. If they turn away from it, take the back — see [When they turn away](#winning-the-arm-the-step-over).
 
 ### The Head and Arm Choke to Armbar from Mount
 
