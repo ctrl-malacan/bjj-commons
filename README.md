@@ -6,7 +6,7 @@
 
 Everyone who trains jiu-jitsu is carrying around a version of the same book, and almost none of it is written down. Your coach's detail on the knee slice. The guillotine grip a visiting black belt showed you once. The half guard sweep that finally clicked on the fiftieth try. It lives in notebooks, phone memos, and memory, and most of it evaporates. Then the next white belt walks in and starts from zero.
 
-Software solved this a long time ago: put the knowledge somewhere shared, let anyone correct it, keep the history, and it compounds. Open BJJ is that for jiu-jitsu. A written, versioned, forkable reference that anyone can read, fix, and add to. Detail from one gym sits next to detail from another. Disagreements between lineages are recorded, not flattened. Mistakes get fixed by whoever spots them. The collective learning of a lot of people, in one place, getting better over time.
+Software solved this a long time ago: put the knowledge somewhere shared, let anyone correct it, keep the history, and it gets more useful day by day. Open BJJ is that for jiu-jitsu. A written, versioned, forkable reference that anyone can read, fix, and add to. Detail from one gym sits next to detail from another. Disagreements between lineages are recorded, not flattened. Mistakes get fixed by whoever spots them. The collective learning of a lot of people, in one place, getting better over time.
 
 Right now it is no-gi, because that is what has been contributed so far. **Gi is very welcome** — the structure is the same, and the pages are waiting for it.
 
