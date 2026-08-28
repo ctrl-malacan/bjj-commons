@@ -1,4 +1,4 @@
-# Open Source BJJ — context for agents
+# BJJ Commons — context for agents
 
 An open-source reference for Brazilian Jiu-Jitsu (no-gi so far; gi welcome and marked), organized by position and by technique chain. Read `README.md` for what it is and `CONTRIBUTING.md` for how people add to it.
 

@@ -1,6 +1,6 @@
 ---
 name: ingest-note
-description: Fold a raw jiu-jitsu class note (transcript file, or a voice-notes CSV export) into the Open Source BJJ reference — position pages, chains, submissions index, position map. Use when someone drops a note in inbox/ or asks to ingest, fold in, or add a class note.
+description: Fold a raw jiu-jitsu class note (transcript file, or a voice-notes CSV export) into the BJJ Commons reference — position pages, chains, submissions index, position map. Use when someone drops a note in inbox/ or asks to ingest, fold in, or add a class note.
 ---
 
 Follow `ingest/PROCESS.md` exactly. In short:
