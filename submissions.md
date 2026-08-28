@@ -122,7 +122,7 @@ See [The Guillotine](positions/09-front-headlock.md#94-the-guillotine) for the c
 | Position | Where |
 |----------|---------|
 | Front headlock (provocation — they push back, you swim to neck) | [Front Headlock](positions/09-front-headlock.md#the-provocation-guillotine-from-front-headlock) |
-| Front headlock (step-over — they push the leg off, you drop to an arm-in guillotine) | [Front Headlock](positions/09-front-headlock.md#winning-the-arm-the-step-over) |
+| Front headlock (step-over — they push the leg off, you drop to an arm triangle guillotine) | [Front Headlock](positions/09-front-headlock.md#winning-the-arm-the-step-over) |
 | Side control (opponent shrimps and reaches for underhook) | [Side Control](positions/06-side-control.md#the-arm-in-guillotine) |
 | Mount (opponent shrimps for knee-elbow escape) | [Mount](positions/07-mount.md#the-guillotine-from-mount) |
 | Closed guard (hip bump sweep — opponent drives forward) | [Closed Guard](positions/02-closed-guard.md#the-hip-bump-sweep) |

@@ -48,9 +48,9 @@ When a grip will not come, threaten something else.
 
 **What is really happening.** While they are busy with your left leg, your right knee — which was on the mat — walks closer and closer to their left arm, and starts helping push that arm across their center line. They rarely notice. They are worried about the necktie and the leg on their head, and read the right knee creeping in as part of the same movement. It is not. It is what lets you cinch the grip on the left tricep and finally bring the arm across.
 
-**The drop.** When they shove your leg off their head, let the momentum carry you: switch your legs — left and right both to their left side — and fall to your back, straight into a tight arm-in guillotine, the arm you just won trapped inside the choke with the head. On its own this is a high-percentage finish.
+**The drop.** When they shove your leg off their head, let the momentum carry you: switch your legs — left and right both to their left side — and fall to your back, straight into a tight arm triangle guillotine, the arm you just won trapped inside the choke with the head. On its own this is a high-percentage finish.
 
-**When they turn away.** More experienced opponents defend the arm-in guillotine by turning away from the choke, so their back faces you. Give up the choke immediately. Take your right arm and wrap it under their right shoulder — the one now exposed to you — and pull that shoulder tight to your chest. Kick through on their left side with your left leg, and you have their back ([Back Control](08-back-control.md)).
+**When they turn away.** More experienced opponents defend the arm triangle guillotine by turning away from the choke, so their back faces you. Give up the choke immediately. Take your right arm and wrap it under their right shoulder — the one now exposed to you — and pull that shoulder tight to your chest. Kick through on their left side with your left leg, and you have their back ([Back Control](08-back-control.md)).
 
 The full front headlock system, with this branch in it, is drawn in [chains/12-front-headlock.md](../chains/12-front-headlock.md).
 

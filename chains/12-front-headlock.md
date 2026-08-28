@@ -19,14 +19,14 @@ flowchart TD
     Q -->|"no: they fight the drag"| SO["Step the left leg over the head"]
     SO -->|"no reaction"| PN["Right leg over the back →<br/>Peruvian necktie (low %)"]
     SO -->|"they push the leg"| KN["Right knee walks in,<br/>arm comes across, grip cinches"]
-    KN -->|"they shove the leg off"| AG["Switch legs to their side, fall back →<br/>arm-in guillotine"]
+    KN -->|"they shove the leg off"| AG["Switch legs to their side, fall back →<br/>arm triangle guillotine"]
     AG -->|"they turn away"| FS["Right arm under the far shoulder,<br/>pull to chest, kick through"] --> BC
 ```
 
 ## Where each step lives
 
 - The position and entries: [The Front Headlock Position](../positions/09-front-headlock.md#91-the-front-headlock-position)
-- Winning the arm with the step-over, the arm-in guillotine, and the back take when they turn: [Winning the Arm: The Step-Over](../positions/09-front-headlock.md#winning-the-arm-the-step-over)
+- Winning the arm with the step-over, the arm triangle guillotine, and the back take when they turn: [Winning the Arm: The Step-Over](../positions/09-front-headlock.md#winning-the-arm-the-step-over)
 - Anaconda: [setup](../positions/09-front-headlock.md#92-the-anaconda-choke), [when it does not finish](../positions/09-front-headlock.md#when-the-anaconda-does-not-finish)
 - D'Arce: [from the front headlock](../positions/09-front-headlock.md#setup-from-the-front-headlock)
 - Guillotine: [the provocation guillotine](../positions/09-front-headlock.md#the-provocation-guillotine-from-front-headlock); finishing in [Submissions § Guillotine](../submissions.md#116-guillotine)
